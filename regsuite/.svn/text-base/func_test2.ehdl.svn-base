@@ -1,0 +1,7 @@
+//Initial value doesn't fit the bus d
+int(2) c main() { 
+
+       int(2) d = 4; 
+       c = d + 1;
+
+}

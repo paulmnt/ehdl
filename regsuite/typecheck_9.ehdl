@@ -1,0 +1,10 @@
+//Array index out of bound
+int(10) c main (int(10) a) { 
+
+	int(2) b[4]; 
+	
+	b[4] = 3;   
+	
+	
+	c = a;
+}

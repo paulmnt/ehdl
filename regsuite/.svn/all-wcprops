@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/233/trunk/regsuite
+END
+multiple_assignments.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/199/trunk/regsuite/multiple_assignments.ehdl
+END
+typecheck_9.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/155/trunk/regsuite/typecheck_9.ehdl
+END
+func_test2.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/156/trunk/regsuite/func_test2.ehdl
+END
+if_test1.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/157/trunk/regsuite/if_test1.ehdl
+END
+adder_std_tester.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/214/trunk/regsuite/adder_std_tester.ehdl
+END
+switchcase_test3.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/175/trunk/regsuite/switchcase_test3.ehdl
+END
+priority_encoder.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/215/trunk/regsuite/priority_encoder.ehdl
+END
+func_test6.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/203/trunk/regsuite/func_test6.ehdl
+END
+uminus.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/211/trunk/regsuite/uminus.ehdl
+END
+typecheck_21.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/175/trunk/regsuite/typecheck_21.ehdl
+END
+typecheck_13.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/163/trunk/regsuite/typecheck_13.ehdl
+END
+typecheck_25.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/183/trunk/regsuite/typecheck_25.ehdl
+END
+typecheck_17.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/175/trunk/regsuite/typecheck_17.ehdl
+END
+while1.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/228/trunk/regsuite/while1.ehdl
+END
+adder_std.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/213/trunk/regsuite/adder_std.ehdl
+END
+typecheck_2.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/150/trunk/regsuite/typecheck_2.ehdl
+END
+typecheck_6.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/150/trunk/regsuite/typecheck_6.ehdl
+END
+trafficlight.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/215/trunk/regsuite/trafficlight.ehdl
+END
+sieve.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/233/trunk/regsuite/sieve.ehdl
+END
+func_test3.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/157/trunk/regsuite/func_test3.ehdl
+END
+if_test2.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/158/trunk/regsuite/if_test2.ehdl
+END
+typecheck_10.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/155/trunk/regsuite/typecheck_10.ehdl
+END
+func_test7.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/203/trunk/regsuite/func_test7.ehdl
+END
+typecheck_22.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/172/trunk/regsuite/typecheck_22.ehdl
+END
+typecheck_14.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/174/trunk/regsuite/typecheck_14.ehdl
+END
+typecheck_18.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/175/trunk/regsuite/typecheck_18.ehdl
+END
+while2.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/228/trunk/regsuite/while2.ehdl
+END
+gcd.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/204/trunk/regsuite/gcd.ehdl
+END
+typecheck_3.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/150/trunk/regsuite/typecheck_3.ehdl
+END
+factorial.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/215/trunk/regsuite/factorial.ehdl
+END
+four_one_mux.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/215/trunk/regsuite/four_one_mux.ehdl
+END
+typecheck_7.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/155/trunk/regsuite/typecheck_7.ehdl
+END
+fibonacci.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/215/trunk/regsuite/fibonacci.ehdl
+END
+switchcase_test1.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/175/trunk/regsuite/switchcase_test1.ehdl
+END
+regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/230/trunk/regsuite/regression.sh
+END
+func_test4.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/157/trunk/regsuite/func_test4.ehdl
+END
+adder.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/regsuite/adder.ehdl
+END
+typecheck_11.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/161/trunk/regsuite/typecheck_11.ehdl
+END
+if_test3.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/133/trunk/regsuite/if_test3.ehdl
+END
+ops_test1.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/202/trunk/regsuite/ops_test1.ehdl
+END
+func_test8.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/179/trunk/regsuite/func_test8.ehdl
+END
+typecheck_23.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/181/trunk/regsuite/typecheck_23.ehdl
+END
+typecheck_15.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/174/trunk/regsuite/typecheck_15.ehdl
+END
+typecheck_19.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/169/trunk/regsuite/typecheck_19.ehdl
+END
+while3.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/228/trunk/regsuite/while3.ehdl
+END
+typecheck_4.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/150/trunk/regsuite/typecheck_4.ehdl
+END
+typecheck_8.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/155/trunk/regsuite/typecheck_8.ehdl
+END
+two_bit_alu.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/175/trunk/regsuite/two_bit_alu.ehdl
+END
+func_test1.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/156/trunk/regsuite/func_test1.ehdl
+END
+switchcase_test2.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/175/trunk/regsuite/switchcase_test2.ehdl
+END
+func_test5.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/157/trunk/regsuite/func_test5.ehdl
+END
+typecheck_20.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/175/trunk/regsuite/typecheck_20.ehdl
+END
+choose.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/48/trunk/regsuite/choose.ehdl
+END
+typecheck_12.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/162/trunk/regsuite/typecheck_12.ehdl
+END
+func_test9.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/203/trunk/regsuite/func_test9.ehdl
+END
+typecheck_24.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/182/trunk/regsuite/typecheck_24.ehdl
+END
+typecheck_16.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/174/trunk/regsuite/typecheck_16.ehdl
+END
+ripple_carry.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/231/trunk/regsuite/ripple_carry.ehdl
+END
+while4.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/230/trunk/regsuite/while4.ehdl
+END
+typecheck_1.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/144/trunk/regsuite/typecheck_1.ehdl
+END
+invoke_function.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/215/trunk/regsuite/invoke_function.ehdl
+END
+subbus.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/63/trunk/regsuite/subbus.ehdl
+END
+typecheck_5.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/150/trunk/regsuite/typecheck_5.ehdl
+END
+dumb_inv.ehdl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/48/trunk/regsuite/dumb_inv.ehdl
+END
